@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "998060207738",
+    "firebase_url": "https://sample-clound-message.firebaseio.com",
+    "project_id": "sample-clound-message",
+    "storage_bucket": "sample-clound-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998060207738:android:749bae2b5aab210a",
+        "android_client_info": {
+          "package_name": "com.example.jongzazaal.samplecloudmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998060207738-i2j9v8ss7odvfvq7dtff0f2vf1tpkd4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jongzazaal.samplecloudmessage",
+            "certificate_hash": "4adf12af9a1dac00b8430f4026b72e8981db6a05"
+          }
+        },
+        {
+          "client_id": "998060207738-1dick6iaj2d60entej9u6marm1lom4t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlE9eLySfq-X4-qYV4HD-28nmkdhpAcws"
+        },
+        {
+          "current_key": "AIzaSyD8G7YIf5O1zs7s8HkXwkG70Q5-98Qq4Gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998060207738-1dick6iaj2d60entej9u6marm1lom4t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

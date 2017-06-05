@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample Cloud Message</string>
+    <string name="subscribed">subscribed on news</string>
+    <string name="unsubscribed">unsubscribed on news</string>
+    <string name="btn_show_token">showToken</string>
+    <string name="btn_subscribe_news">Subscribe News</string>
+    <string name="btn_unsubscribe_news">UnSubscribe News</string>
+    <string name="result">result</string>
+</resources>
